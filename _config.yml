@@ -32,7 +32,7 @@ twitter_username: jekyllrb
 github_username: surfcast 
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 ---
